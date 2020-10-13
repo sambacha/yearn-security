@@ -8,19 +8,21 @@ bulletin discussing the impact and credit the discoverer (if so desired)
 
 ### PKI & PGP
 
-[.asc files](https://github.com/iearn-finance/yearn-security/tree/master/keys)
+[keys/.asc files](https://github.com/iearn-finance/yearn-security/tree/master/keys)
 
 #### Points of Contact
 
 <!-- START OF GPG KEYS LIST --> 
 
-Daniel Lehnberg [daniel.lehnberg@protonmail.com](mailto:daniel.lehnberg@protonmail.com)
+Daniel Lehnberg [daniel.lehnberg@protonmail.com](mailto:daniel.lehnberg@protonmail.com) <br>
     - https://raw.githubusercontent.com/iearn-finance/yearn-security/master/keys/lehnberg.asc
-banteg [banteeg@gmail.com](mailto:banteeg@gmail.com)
+    <br>
+banteg [banteeg@gmail.com](mailto:banteeg@gmail.com) <br>
 
-Klim K [y@milkyklim.com](mailto:y@milkyklim.com)
+Klim K [y@milkyklim.com](mailto:y@milkyklim.com) <br>
     - https://raw.githubusercontent.com/iearn-finance/yearn-security/master/keys/milkyklim.asc
-Doggie [yearn-security@pm.me](mailto:yearn-security@pm.me)
+    <br>
+Doggie [yearn-security@pm.me](mailto:yearn-security@pm.me) <br>
     - https://raw.githubusercontent.com/iearn-finance/yearn-security/master/keys/publickey.yearn-security%40pm.me.asc
-
+    <br>
 <!-- END OF GPG KEYS LIST -->
