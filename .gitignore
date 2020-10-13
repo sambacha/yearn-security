@@ -1,0 +1,9 @@
+.DS_Store
+
+### GPG ###
+secring.*
+
+### KEYS ###
+id_*
+_id_*
+
